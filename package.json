@@ -1,0 +1,23 @@
+{
+  "name": "travis",
+  "version": "1.0.0",
+  "description": "",
+  "main": "HelloWorld.js",
+  "scripts": {
+    "test": "mocha"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/MikeCkn/test-Travis.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/MikeCkn/test-Travis/issues"
+  },
+  "homepage": "https://github.com/MikeCkn/test-Travis#readme",
+  "dependencies": {
+    "chai": "^4.1.2",
+    "mocha": "^4.0.1"
+  }
+}
